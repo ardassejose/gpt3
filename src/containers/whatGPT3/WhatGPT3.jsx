@@ -23,11 +23,11 @@ const WhatGPT3 = () => {
         />
         <Feature
           title={"Knowledgebase"}
-          text={"At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments"}
+          text={"At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments."}
         />
         <Feature
           title={"Education"}
-          text={"At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"}
+          text={"At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments."}
         />
       </div>
       </div>
