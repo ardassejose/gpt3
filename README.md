@@ -27,5 +27,5 @@ O protótipo foi 100% feito na plataforma Figma e se encontra disponível atrav�
 > https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3
 > Link YouTube: https://www.youtube.com/watch?v=F627pKNUCVQ&list=PLp-sGw5QwKpBpZSQoImLRoAWMC8aHECXY&index=4
 
-Agradeço ao apoio de todos nesse projeto que poderá ser usado por todos os envolvidos como portfólio.
+Agradeço ao apoio de todos nesse projeto que poderá ser usado por todos os envolvidos como portfólio. <br>
 Feito com ❤️ e React.js
